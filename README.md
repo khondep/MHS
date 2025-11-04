@@ -100,5 +100,5 @@ The final MHS% is computed as:
 ## 🚀 Getting Started
 
 1. Clone the repository:
-   ```bash
-https://github.com/khondep/MHS.git
+   ```bash 
+   https://github.com/khondep/MHS.git
