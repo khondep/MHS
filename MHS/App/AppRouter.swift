@@ -14,7 +14,8 @@ enum AppRoute: Hashable {
     case results(ScoreResult)   
     case specialists
     case history
-    case settings          
+    case settings
+    case onboarding
 }
 final class AppRouter: ObservableObject {
     @Published var path: [AppRoute] = []
