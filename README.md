@@ -1,7 +1,8 @@
 # 🧠 MHS — Mental Health Score  
 *A modern iOS app that helps users measure, track, and improve their mental well-being.*
 
-![App Logo](Assets/AppIcon1024.png)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c5895338-25f2-47e9-9f7e-c24958c6ae43" />
+
 
 ---
 
